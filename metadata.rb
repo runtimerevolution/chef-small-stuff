@@ -1,9 +1,9 @@
-name 'chef-small-stuff'
-maintainer 'The Authors'
+name 'small-stuff'
+maintainer 'Filipe Dias'
 maintainer_email 'f.dias@runtime-revolution.com'
 license 'mit'
-description 'Installs/Configures chef-small-stuff'
-long_description 'Installs/Configures chef-small-stuff'
+description 'Installs/Configures small-stuff'
+long_description 'Installs/Configures small-stuff'
 version '0.1.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
