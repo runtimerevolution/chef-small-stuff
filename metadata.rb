@@ -19,3 +19,6 @@ version '0.1.0'
 # source_url 'https://github.com/<insert_org_here>/chef-small-stuff' if respond_to?(:source_url)
 
 depends          'apt'
+depends          'mysql'
+depends          'database'
+depends          'mysql2_chef_gem'
